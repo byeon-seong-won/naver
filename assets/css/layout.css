@@ -2,8 +2,9 @@
 @import './common.css';
 
 
-
-
+#wrapper {
+    min-width: 1440px;
+}
 
 #header .inner {
     display: flex;
