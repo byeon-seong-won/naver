@@ -52,13 +52,10 @@
     outline: 0;
     height: 58px;
 }
-
 #header .group-search fieldset .input-search::placeholder {
     color: #ddd;
     font-weight: 400;
 }
-
-
 
 #header .group-search .btn-key {
     padding: 0 3px;
@@ -145,7 +142,6 @@
     width: 44px;
     height: 44px;
 }
-
 #header .group-nav [class*="ico-"]:hover::before {
     position: absolute;
     top: -3px;

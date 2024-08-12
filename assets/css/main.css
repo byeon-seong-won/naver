@@ -183,7 +183,6 @@ body {
 }
 
 
-
 .common-frame .group-control .set-area {
     display: flex;
     align-items: center;
@@ -207,15 +206,12 @@ body {
 .common-frame .group-control .set-area .btn-list::before {
     background-position: -391px -204px;
 }
-
 .common-frame .group-control .set-area .btn-thumb {
     padding: 18px 20px 18px 9px;
 }
 .common-frame .group-control .set-area .btn-thumb::before {
     background-position: -197px -299px;
 }
-
-
 .common-frame .group-control .set-area {
     position: absolute;
     right: 0;
