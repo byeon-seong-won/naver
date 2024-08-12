@@ -43,7 +43,7 @@
 }
 #header .group-search fieldset .input-search {
     flex: 1;
-    color: #000;
+    color: var(--color_search);
     padding: 17px 0;
     background-color: rgba(0,0,0,0);
     font-size: 2rem;
